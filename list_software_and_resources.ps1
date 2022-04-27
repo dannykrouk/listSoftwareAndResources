@@ -8,7 +8,7 @@
 # Should be run as the machine administrator ("as administrator")
 
 param	(
-		[Parameter(Position=0)][string]$machine="dannyk.esri.com"
+		[Parameter(Position=0)][string]$machine="localhost"
 		)
 
 
